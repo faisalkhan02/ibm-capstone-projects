@@ -13,5 +13,5 @@ Presented actionable insights through engaging visualizations.
 Demonstrated proficiency in data analytics and problem-solving.
 I'm excited to share my project and contribute to the ever-evolving data community! Join me on this journey of data exploration and insights discovery. 🚀💡
 
-# Tags:
+## Tags:
 #IBMDataAnalyst #DataInsights #DataAnalytics #CapstoneProject
